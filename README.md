@@ -1,4 +1,4 @@
-# 📊 Portafolio de Data Science — Hesler Bustos
+# 📊 Portafolio 
 
 Bienvenido(a) a mi portafolio de proyectos de Data Science.  
 Aquí encontrará trabajos que he desarrollado aplicando Python, Machine Learning, estadística y análisis de datos.
