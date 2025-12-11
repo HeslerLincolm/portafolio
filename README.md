@@ -1,6 +1,6 @@
 # 📊 Portafolio 
 
-Bienvenido(a) a mi portafolio de proyectos. Aquí encontrará trabajos que he desarrollado aplicando Python, Machine Learning, estadística y análisis de datos. Este portafolio está en crecimiento. Puede revisar cada proyecto con su código, datos y explicación detallada.
+Bienvenido(a) a mi portafolio de proyectos. Aquí encontrará trabajos que he desarrollado aplicando Python, Machine Learning, estadística y análisis de datos. Este portafolio está en crecimiento. Puede revisar cada proyecto con su código, datos, archivos, imágenes y explicación detallada.
 
 ---
 
