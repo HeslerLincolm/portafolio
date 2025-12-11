@@ -11,7 +11,7 @@ Este portafolio está en crecimiento. Puede revisar cada proyecto con su código
 - Egresado en Matemáticas  
 - Interesado en Data Science, Machine Learning y modelado  
 - Enfocado en aprender, analizar y resolver problemas con datos  
-- Actualmente desarrollando proyectos prácticos para fortalecer mi experiencia  
+- Actualmente estoy desarrollando proyectos prácticos para fortalecer mi experiencia  
 
 ---
 
