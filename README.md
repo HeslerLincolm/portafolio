@@ -26,6 +26,10 @@ Objetivo: desarrollar un modelo de ML capaz de clasificar tickets de soporte de 
 Objetivo: transformar datos brutos de transacciones en información procesable para la toma de decisiones estratégicas, permitiendo visualizar tendencias históricas y proyecciones.
 👉 [Ver repositorio](https://github.com/HeslerLincolm/Analisis-ventas-ticket-promedio)
 
+### 🔹 1. **Informe de empleados activos – Recursos Humanos  **
+Objetivo: elaborar un informe interactivo utilizando tablas dinámicas, dashboards visuales, implementación de macros en VBA para automatizar la generación de consultas para el análisis y presentación de datos de RR. HH. 
+👉 [Ver repositorio](https://github.com/HeslerLincolm/Informe-empleados-activos)
+
 ---
 
 ## 🛠️ Tecnologías que utilizo
